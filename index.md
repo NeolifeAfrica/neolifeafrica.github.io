@@ -8,3 +8,13 @@ Neolife Africa runs several production applications across different tech stacks
 
 - [Price Update App](priceupdate.md)
 - [Commissions](commissions.md)
+- [Stock Portal](commissions.md)
+- [SMS Delivery](commissions.md)
+- [api.neolifeafrica.info](commissions.md)
+- [office.neolifeafrica.info](commissions.md)
+- [metabase.neolifeaafrica.info](commissions.md)
+- [Neolife SSRS Reports](commissions.md)
+- [Banks & Payments Portal](commissions.md)
+- [Exigo-Mcommerce Middleware API](commissions.md)
+- [Automated Orders Movement for Monthend](commissions.md)
+- [Neolife POS Printing](commissions.md)
